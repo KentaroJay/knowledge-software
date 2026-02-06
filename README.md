@@ -2,19 +2,6 @@
 
 A personal knowledge base for software development concepts, patterns, and best practices.
 
-## 📁 Structure
-
-- **[neovim/](./neovim/)** - Complete Neovim configuration guide
-  - Configuration basics (Vimscript)
-  - Plugin management (vim-plug, lazy.nvim, packer)
-  - Lua programming fundamentals
-  - Neovim Lua API reference
-  - Practical configuration examples
-- **[react-native/](./react-native/)** - React Native concepts and patterns
-- **[ios/](./ios/)** - iOS development notes
-- **[typescript/](./typescript/)** - TypeScript tips and tricks
-- **[general/](./general/)** - General programming concepts
-
 ## 🎯 Purpose
 
 This repository serves as:
