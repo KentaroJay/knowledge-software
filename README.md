@@ -19,6 +19,18 @@ Each note includes:
 - Key takeaways
 - Related resources
 
+## 📂 Topics
+
+| Directory | Description |
+|-----------|-------------|
+| [`claude-code/`](./claude-code/) | Claude Code CLI - configuration, hooks, agents, MCP, tips |
+| [`neovim/`](./neovim/) | Neovim configuration, plugins, and Lua scripting |
+| [`react-native/`](./react-native/) | React Native development notes |
+| [`lua/`](./lua/) | Lua language fundamentals |
+| [`typescript/`](./typescript/) | TypeScript patterns and concepts |
+| [`ios/`](./ios/) | iOS development notes |
+| [`general/`](./general/) | General development concepts |
+
 ## 🔍 How to Use
 
 Search by keyword:
